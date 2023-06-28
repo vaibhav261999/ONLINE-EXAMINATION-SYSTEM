@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Log>
+  <Settings>
+    <Setting Name="LogFile" Value="Z:\Online\onlnet\onlinenet.log" />
+    <Setting Name="ProjectName" Value="onlinenet" />
+    <Setting Name="OutputDir" Value="Z:\Online\onlnet" />
+    <Setting Name="ProjectPath" Value="Z:\Online" />
+  </Settings>
+  <Globals>
+    <Issue Type="Global Warning" Number="1024" Level="2" Source="ASP">Method of COM object can return an instance of type Object. Then, the upgrade tool cannot infer the right type.</Issue>
+    <Issue Type="Global Warning" Number="1015" Level="1" Source="ASP">The values returned by some ASP.NET methods are different from those in ASP and in some cases must be coded differently.</Issue>
+    <Issue Type="Global Note" Number="1007" Level="4" Source="ASP">All function, subroutine and variable declarations were moved into a script tag global. </Issue>
+  </Globals>
+</Log>
